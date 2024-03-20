@@ -58,7 +58,7 @@ class TextWidget extends StatelessWidget {
           style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
         ),
         const Text(
-          'Emang kamu gak capek cantik terus?',
+          'Universitas Muhammadiyah Kalimantan Timur',
           style: TextStyle(fontSize: 16.0),
         ),
         SizedBox(height: 20.0),
